@@ -1,0 +1,22 @@
+.myHomeBg{
+    background-image: url("../../images/BG1.jpg");
+
+}
+.contentDiv{
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.contentLeft{
+    background-color: #adabab;
+    height: 60vh;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.contentRight{
+    background-color: #f8f7f7;
+    height: 60vh;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
